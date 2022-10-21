@@ -1,1 +1,1 @@
-# JS-Project
+# Dictionary App in JavaScript
